@@ -1,0 +1,27 @@
+_repo: Children-s-Stories-in-American-Literature-1660-1860_32172
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32172-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wright, Henrietta Christian
+    deathdate: 1899
+    gutenberg_agent_id: '35708'
+    url: http://www.gutenberg.org/2009/agents/35708
+description: ''
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American -- History and criticism'
+- !lcsh 'Children -- Books and reading -- United States -- History'
+- !lcsh 'American literature -- History and criticism'
+- !lcc 'PS'
+title: Children's Stories in American Literature, 1660-1860
+url: http://www.gutenberg.org/ebooks/32172
